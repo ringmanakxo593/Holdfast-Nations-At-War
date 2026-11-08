@@ -203,3 +203,6 @@ This repository serves as the official landing page for Holdfast: Nations At War
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Holdfast: Nations At War today!**
+
+---
+**Last updated:** 2026-11-08 23:13:38 UTC
