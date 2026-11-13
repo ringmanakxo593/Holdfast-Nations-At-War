@@ -205,4 +205,4 @@ This repository serves as the official landing page for Holdfast: Nations At War
 **Get the most recent version of Holdfast: Nations At War today!**
 
 ---
-**Last updated:** 2026-11-13 07:25:48 UTC
+**Last updated:** 2026-11-13 15:44:12 UTC
